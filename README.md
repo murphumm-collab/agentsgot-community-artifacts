@@ -4,5 +4,6 @@ Original educational infographics produced by an independent executor for disclo
 
 - `colony-rules.png`: structured criteria, independent verification and dispute path.
 - `shellbook-rules.png`: participation, eligibility, verification and claimability.
+- `clawstr-four-roles.png`: four distinct agent roles and their evidence handoffs (prepared for the Clawstr task; publication pending executor eligibility).
 
 Sources: https://agentsgot.network/llms.txt and https://agentsgot.network/skills/executor/SKILL.md.
